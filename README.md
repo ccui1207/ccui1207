@@ -1,42 +1,54 @@
-<h1 align="center">你好 👋，我是 ccui</h1>
+<div align="center">
 
-<h3 align="center">网络空间安全方向学习者 · AI 安全 / 移动安全 / 安全自动化</h3>
+# 👋 你好，我是 ccui
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ccui1207&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+### 网络空间安全方向学习者  
+### AI 安全 · 移动安全 · 安全规则引擎
 
----
+<img src="https://komarev.com/ghpvc/?username=ccui1207&label=Profile%20Views&color=blue&style=flat-square" />
 
-## 关于我
+</div>
 
-- 🎓 网络空间安全专业学生
-- 🛡️ 关注 AI 安全与移动安全方向
-- 🔥 正在学习和实践安全规则引擎、自动化安全分析
-- 📱 正在做 Android 安全、APK 分析相关实验
+<br/>
 
----
+## 🧑‍💻 关于我
 
-## 研究兴趣
+我是一名网络空间安全方向的学生，目前主要关注 **AI 安全、移动安全、API 授权安全与安全规则自动化**。
 
-- AI 安全
-- 移动安全
-- API 授权安全
-- 安全规则生成
-- 自动化漏洞检测
+正在学习和实践：
 
----
+- Android 安全与 APK 静态分析
+- API 授权漏洞检测
+- WAF / SIEM 安全规则生成
+- 自动化漏洞检测与安全分析
 
-## GitHub 数据
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ccui1207&show_icons=true&theme=tokyonight" />
-</p>
+## 🔍 研究兴趣
 
----
+| 方向 | 内容 |
+|---|---|
+| AI 安全 | 大模型安全、安全 Agent、规则生成 |
+| 移动安全 | Android 逆向、APK 分析、组件安全 |
+| API 安全 | 越权检测、接口建模、黑盒验证 |
+| 安全自动化 | 规则引擎、日志分析、告警检测 |
 
-## 技术栈
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,vue,flask,mysql,docker,linux,git,github" />
-</p>
+## 🛠️ 技术栈
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,vue,flask,mysql,docker,linux,git,github" />
+
+</div>
+
+<br/>
+
+## 📌 当前关注
+
+```text
+Mobile Security     ███████████████░░░░░
+AI Security         ████████████░░░░░░░░
+Rule Engine         ████████████░░░░░░░░
+API Security        ██████████░░░░░░░░░░
