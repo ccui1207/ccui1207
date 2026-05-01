@@ -33,18 +33,6 @@
 | API 安全 | 越权检测、接口建模、黑盒验证 |
 | 安全自动化 | 规则引擎、日志分析、告警检测 |
 
-<br/>
-
-## 🛠️ 技术栈
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,vue,flask,mysql,docker,linux,git,github" />
-
-</div>
-
-<br/>
-
 ## 📌 当前关注
 
 ```text
