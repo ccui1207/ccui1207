@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm ccui</h1>
+<h1 align="center">你好 👋，我是 ccui</h1>
 
-<h3 align="center">AI Security · Mobile Security · Rule Engine · Multi-Agent RL</h3>
+<h3 align="center">网络空间安全方向学习者 · AI 安全 / 移动安全 / 安全自动化</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ccui1207&label=Profile%20views&color=0e75b6&style=flat" />
@@ -8,37 +8,35 @@
 
 ---
 
+## 关于我
 
-## 🧠 Research Interests
-
-- AI Security
-- Mobile App Security
-- API Authorization Security
-- Security Rule Generation
+- 🎓 网络空间安全专业学生
+- 🛡️ 关注 AI 安全与移动安全方向
+- 🔥 正在学习和实践安全规则引擎、自动化安全分析
+- 📱 正在做 Android 安全、APK 分析相关实验
 
 ---
 
+## 研究兴趣
 
-## 📊 GitHub Snapshot
+- AI 安全
+- 移动安全
+- API 授权安全
+- 安全规则生成
+- 自动化漏洞检测
+
+---
+
+## GitHub 数据
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ccui1207&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccui1207&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 技术栈
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,vue,flask,mysql,docker,linux,git,github,js,html,css,go" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,vue,flask,mysql,docker,linux,git,github" />
 </p>
-
----
-
-## 📚 Current Focus
-
-```text
-Mobile Security      ███████████████░░░░░  75%
-AI Security          ████████████░░░░░░░░  60%
-Rule Engine          ████████████░░░░░░░░  60%
