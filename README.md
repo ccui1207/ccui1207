@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 你好，我是 ccui
+#  ccui
 
 ### 网络空间安全方向学习者  
 
