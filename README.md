@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 动态打字效果 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ccui+%F0%9F%91%8B;Cybersecurity+Learner;CTF+Player;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+ccui+%F0%9F%91%8B;Cybersecurity+Learner;Always+Learning" alt="Typing SVG" />
 
 <h1>🔐 ccui</h1>
 <h3>🛡️ 网络空间安全方向学习者</h3>
