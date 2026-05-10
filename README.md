@@ -9,8 +9,6 @@
 <!-- 徽章装饰 -->
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-00adb5?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF-Player-e63946?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-Learning-2a9d8f?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
 </div>
@@ -24,15 +22,6 @@
 
 ---
 
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ccui1207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccui1207&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ## 👀 来访者
 
